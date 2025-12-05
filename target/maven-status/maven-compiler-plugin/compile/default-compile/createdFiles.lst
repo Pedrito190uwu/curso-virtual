@@ -1,0 +1,8 @@
+db\Conexion.class
+Main.class
+repository\EstudiantesRepository.class
+model\Cursos.class
+repository\CursosRepository.class
+repository\CategoriasRepository.class
+model\Categorias.class
+model\Estudiantes.class
